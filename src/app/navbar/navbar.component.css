@@ -1,0 +1,8 @@
+.navbar{
+  background-color: #121619;
+  padding: 20px 0;
+}
+
+.navbar a:hover{
+  cursor: pointer;
+}
